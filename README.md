@@ -1,6 +1,6 @@
 # [An Astrochemical Park](http://cdeolmsf.github.io)
 
-This is based on the [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) template for [Bootstrap](http://getbootstrap.com/).
+This is based on the [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) template for [Bootstrap](http://getbootstrap.com/). The image is taken from APOD: https://apod.nasa.gov/apod/ap120629.html
 
 ## Purpose
 
