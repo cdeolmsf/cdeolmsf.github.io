@@ -6,7 +6,7 @@ This is based on the [Landing Page](http://startbootstrap.com/template-overviews
 
 The aim is to:
 * play with html&css
-* store something useful on GitHub
+* show our survey results with webpages
 * demonstrate what I am working on
 
 ## Comments and suggestions
